@@ -4,7 +4,7 @@ A simple mashup demo using the App Integration (IFrame) and Capability APIs. Thi
 
 ## Compatibility
 
-Tested working with Qlik Sense June 2017 through November 2018.
+Tested working with Qlik Sense June 2017 through Septemner 2019.
 
 ## App
 
